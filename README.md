@@ -1,4 +1,4 @@
-![image](https://github.com/ManeshLokare/SoftwareTestingProjects/assets/96302725/3383cb96-c691-40ec-9fd3-e9f74a37cd84)# Software-TestingProjects
+# Software-TestingProjects
 All the manual testing projects with test plan and test cases
 
 project #1- testcase and testcases for App.vmo.com
